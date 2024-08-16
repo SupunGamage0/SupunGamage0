@@ -24,6 +24,7 @@
 </div>
 
 
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
 - 🎓 I am a **Undergraduate Student**.
@@ -32,12 +33,6 @@
 - 😎 My hobbies are **listen music 🎵 and play games🎮**.
 - 💬 If you have any questions, **just ask me**.
 - 📫 How to reach me **gamagesupun001@gmail.com**
-
-
-
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Languages and Tools</b>
