@@ -1,7 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Supun Gamage</h1>
-<h3 align="center">A passionate full Stack developer from Srilanka</h3>
+<b><h3 align="center">A Passionate Full Stack Developer</h3></b>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
@@ -31,8 +31,6 @@
 - 💻 Major is **Computer Science**.
 - 🌱 I'm currently learning **Web development and Java**. 
 - 😎 My hobbies are **listen music 🎵 and play games🎮**.
-- 💬 If you have any questions, **just ask me**.
-- 📫 How to reach me **gamagesupun001@gmail.com**
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Languages and Tools</b>
@@ -72,9 +70,9 @@
     ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
     ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
     ![Microsoft Office Badge](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=flat)
+<br>
+<br>
 
-
-** Skills in study and improvement**
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p align="center">
@@ -102,6 +100,5 @@
   <img align="center" alt="Supun Gamage | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 </p>
----
 
 [Supun Gamage](https://github.com/SupunGamage0)
