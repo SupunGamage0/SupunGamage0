@@ -88,11 +88,24 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/supungamage0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supungamage0" height="30" width="40" /></a>
+<div align="center">
+  <h3><b>Let's get in touch! </b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/supungamage0/" target="_blank">
+  <img align="center" alt="Supun Gamage | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/ssup.supun/" target="_blank">
+  <img align="center" alt="Supun Gamage | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:gamagesupun001@gmail.com" >
+  <img align="center" alt="Supun Gamage | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 
+---
 
-
-
+[Supun Gamage](https://github.com/SupunGamage0)
