@@ -24,7 +24,7 @@
 </div>
 
 
-<div>
+
 - 🎓 I am a **Undergraduate Student**.
 - 💻 Major is **Computer Science**.
 - 🌱 I'm currently learning **Web development and Java**. 
@@ -33,7 +33,7 @@
 - 📫 How to reach me **gamagesupun001@gmail.com**
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-</div>
+
 
 <br>
 
