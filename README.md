@@ -23,22 +23,21 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
--🎓 I am a **Undergraduate Student**
--💻 Major is **Computer Science**
-    🌱 I'm currently learning **Web development and Java**
-    😎 My hobbies are **listen to music 🎵 and play games🎮**
-    💬 If you have any questions, **just ask me**
-    📫 How to reach me **gamagesupun001@gmail.com**
-- 🔭 I’m currently working on **Collage Project**
 
-- 🌱 I’m currently learning **About Android Database**
 
-- 💬 Ask me about **Flutter Android XML**
 
-- 📫 How to reach me **https://www.instagram.com/_jay_367/**
-    
+- 🎓 I am a **Undergraduate Student**.
+- 💻 Major is **Computer Science**.
+- 🌱 I'm currently learning **Web development and Java**. 
+- 😎 My hobbies are **listen music 🎵 and play games🎮**.
+- 💬 If you have any questions, **just ask me**.
+- 📫 How to reach me **gamagesupun001@gmail.com**
 
-  <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Languages and Tools</b>
@@ -118,3 +117,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/supungamage0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supungamage0" height="30" width="40" /></a>
 </p>
+
+
+
+
