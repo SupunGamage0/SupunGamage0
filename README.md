@@ -26,7 +26,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
-    <p>🎓 I am a **Undergraduate Student**.</p>
+    -🎓 I am a **Undergraduate Student**
     <p>💻 Major is **Computer Science**.</p>
     <p>🌱 I'm currently learning **Web development and Java**.</p>
     <p>😎 My hobbies are **listen to music 🎵 and play games🎮**.</p>
