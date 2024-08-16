@@ -32,7 +32,7 @@
 - 💬 If you have any questions, **just ask me**.
 - 📫 How to reach me **gamagesupun001@gmail.com**
 
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" align="right"/>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
 <h3 align="left">Languages and Tools:</h3>
