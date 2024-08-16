@@ -104,13 +104,13 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunGamage0&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SupunGamage0&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
 <br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SupunGamage0&theme=holi-theme">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunGamage0&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 </p>
 
 
