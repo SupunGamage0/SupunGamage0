@@ -36,9 +36,9 @@
 
 
   
-| ![phuocantd's github stats](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&theme=react)             | ![phuocantd GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuocantd&theme=react)                                                                                                           |
+| ![Supun Gamage's github stats](https://github-readme-stats.vercel.app/api?username=SupunGamage0&show_icons=true&theme=react)             | ![Supun Gamage's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SupunGamage0&theme=react)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuocantd&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=phuocantd&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunGamage0&langs_count=8&theme=react&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SupunGamage0&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
 
 
 <h3 align="left">Connect with me:</h3>
