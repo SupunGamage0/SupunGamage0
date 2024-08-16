@@ -23,13 +23,20 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-  
-  -🎓 I am a **Undergraduate Student**
-    💻 Major is **Computer Science**
+-🎓 I am a **Undergraduate Student**
+-💻 Major is **Computer Science**
     🌱 I'm currently learning **Web development and Java**
     😎 My hobbies are **listen to music 🎵 and play games🎮**
     💬 If you have any questions, **just ask me**
     📫 How to reach me **gamagesupun001@gmail.com**
+- 🔭 I’m currently working on **Collage Project**
+
+- 🌱 I’m currently learning **About Android Database**
+
+- 💬 Ask me about **Flutter Android XML**
+
+- 📫 How to reach me **https://www.instagram.com/_jay_367/**
+    
 
   <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
