@@ -101,11 +101,7 @@
 <a href="mailto:gamagesupun001@gmail.com" >
   <img align="center" alt="Supun Gamage | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<p>
-<p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
-
 ---
 
 [Supun Gamage](https://github.com/SupunGamage0)
