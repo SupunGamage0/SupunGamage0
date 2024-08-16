@@ -23,12 +23,16 @@
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
+
+
 - 🎓 I am a **Undergraduate Student**.
 - 💻 Major is **Computer Science**.
 - 🌱 I'm currently learning **Web development and Java**. 
 - 😎 My hobbies are **listen music 🎵 and play games🎮**.
 - 💬 If you have any questions, **just ask me**.
 - 📫 How to reach me **gamagesupun001@gmail.com**
+
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" align="right"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
