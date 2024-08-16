@@ -3,8 +3,11 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-- 🌱 I’m currently learning **Java**
-
+- 🎓 I am a **Undergraduate Student**.
+- 💻 Major is **Computer Science**.
+- 🌱 I'm currently learning **Web development and Java**. 
+- 😎 My hobbies are **listen music 🎵 and play games🎮**.
+- 💬 If you have any questions, **just ask me**.
 - 📫 How to reach me **gamagesupun001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
