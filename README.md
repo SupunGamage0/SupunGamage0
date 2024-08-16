@@ -102,22 +102,12 @@
 \* Skills in study and improvement.
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=SupunGamage0&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
+<br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=SupunGamage0&show_icons=true&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunGamage0&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=SupunGamage0&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunGamage0&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
+![Supun Gamage's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupunGamage0&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Supun Gamage's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunGamage0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SupunGamage0&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
