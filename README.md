@@ -24,20 +24,18 @@
 </div>
 
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <p>🎓 I am a **Undergraduate Student**.</p>
+    <p>💻 Major is **Computer Science**.</p>
+    <p>🌱 I'm currently learning **Web development and Java**.</p>
+    <p>😎 My hobbies are **listen to music 🎵 and play games🎮**.</p>
+    <p>💬 If you have any questions, **just ask me**.</p>
+    <p>📫 How to reach me **gamagesupun001@gmail.com**</p>
+  </div>
 
-
-- 🎓 I am a **Undergraduate Student**.
-- 💻 Major is **Computer Science**.
-- 🌱 I'm currently learning **Web development and Java**. 
-- 😎 My hobbies are **listen music 🎵 and play games🎮**.
-- 💬 If you have any questions, **just ask me**.
-- 📫 How to reach me **gamagesupun001@gmail.com**
-
-
-
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-
+  <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+</div>
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Languages and Tools</b>
