@@ -60,9 +60,6 @@
     ![Docker Badge](https://img.shields.io/badge/Docker*-2496ED?logo=docker&logoColor=fff&style=flat)
     ![Azure DevOps Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=flat)
 
-- ## Clouds & Hostings
-    ![Heroku Badge](https://img.shields.io/badge/Heroku-%23430098.svg?&logo=heroku&logoColor=white&style=flat) 
-    ![Apache Badge](https://img.shields.io/badge/Apache-C71A36?&logo=Apache&logoColor=white&style=flat) 
   
 - ## IDEs & Tools
     ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
