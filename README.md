@@ -57,9 +57,7 @@
     ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
     ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
     ![Git Extensions Badge](https://img.shields.io/badge/Git%20Extensions-212121?logo=gitextensions&logoColor=fff&style=flat)
-    ![Docker Badge](https://img.shields.io/badge/Docker*-2496ED?logo=docker&logoColor=fff&style=flat)
-    ![Azure DevOps Badge](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=flat)
-
+  
   
 - ## IDEs & Tools
     ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
