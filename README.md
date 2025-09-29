@@ -85,9 +85,6 @@
 <a href="https://www.linkedin.com/in/supungamage0/" target="_blank">
   <img align="center" alt="Supun Gamage | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/ssup.supun/" target="_blank">
-  <img align="center" alt="Supun Gamage | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
 <a href="mailto:gamagesupun001@gmail.com" >
   <img align="center" alt="Supun Gamage | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
